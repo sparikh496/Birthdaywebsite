@@ -1,0 +1,12 @@
+@import url(https://fonts.googleapis.com/css?family=Ruda);
+h1{
+  font-size: 100px;
+  font-family: Ruda
+}
+body {
+    background-color: lightblue;
+}
+@import url(https://fonts.googleapis.com/css?family=Khand);
+h2{
+  font-family: Khanda
+}
